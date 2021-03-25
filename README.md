@@ -18,4 +18,5 @@ Once it is running, navigate to any of the links below.
 
 - [See Argv](http://localhost:8000/argv)
 - [See CLI args](http://localhost:8000/args)
+- [CLI Secrets](http://localhost:8000/secrets)
 - [Solve P = NP](http://localhost:8000)
