@@ -6,7 +6,7 @@ After installation you will be able to run `node` and `npm`.
 
 ## Running the projects
 ```bash
-git clone XXXXXXX
+git clone https://github.com/uvmcs120s2021/CLI-jtstille
 cd CLI-jtstille
 npm install # Installs all the libraries specified in the package.json file
 node index.js hello there --args 1,2,3,4
